@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@buy-positive-review/review-reputation-engine)](https://npmjs.com/package/@buy-positive-review/review-reputation-engine)
 [![PyPI](https://img.shields.io/pypi/v/review-reputation-engine)](https://pypi.org/project/review-reputation-engine)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21924233.svg)](https://doi.org/10.5281/zenodo.21924233)
 
 Review Reputation Engine is a lightweight review reputation engine designed to organize, analyze, and monitor online review signals across business and review platforms. The project focuses on review visibility, reputation insights, customer feedback patterns, and maintaining a structured view of a brand's online presence. Built by [BuyPositiveReview.online](https://buypositivereview.online).
 
@@ -83,6 +83,7 @@ Review Platforms:
 | Facebook | Social review and recommendation tracking |
 | TripAdvisor | Hospitality and travel review monitoring |
 
+
 ## Score Interpretation
 
 | Score | Status | Action |
@@ -106,7 +107,7 @@ Review Reputation Engine · Online Review Monitoring · Reputation Insights · C
 | NPM | https://npmjs.com/package/@buy-positive-review/review-reputation-engine |
 | PyPI | https://pypi.org/project/review-reputation-engine |
 | Hugging Face | https://huggingface.co/datasets/buy-positive-review/reputation-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21924233 |
 | Docs | https://review-reputation-engine.readthedocs.io |
 | Pinterest | https://www.pinterest.com/Buypositivereview/ |
 | SlideShare | https://www.slideshare.net/slideshow/building-a-strong-online-reputation-strategies-for-authentic-customer-trust-and-digital-brand-growth/289223824 |
