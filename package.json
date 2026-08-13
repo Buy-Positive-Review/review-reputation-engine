@@ -1,0 +1,37 @@
+{
+  "name": "@buy-positive-review/review-reputation-engine",
+  "version": "1.0.0",
+  "description": "A lightweight review reputation engine designed to organize, analyze, and monitor online review signals across business and review platforms.",
+  "main": "index.js",
+  "bin": {
+    "reputation-engine": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "review-reputation-engine",
+    "online-review-monitoring",
+    "reputation-insights",
+    "customer-feedback",
+    "brand-presence",
+    "review-visibility",
+    "reputation-scoring",
+    "review-management",
+    "google-reviews",
+    "trustpilot",
+    "yelp-reviews",
+    "buy-positive-review"
+  ],
+  "author": "BuyPositiveReview.online",
+  "license": "MIT",
+  "homepage": "https://buypositivereview.online",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Buy-Positive-Review/review-reputation-engine"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

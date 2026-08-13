@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "review-reputation-engine"
+version = "1.0.0"
+authors = [
+  { name = "BuyPositiveReview.online", email = "info@buypositivereview.online" },
+]
+description = "A lightweight review reputation engine designed to organize, analyze, and monitor online review signals across business and review platforms."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Office/Business",
+]
+keywords = [
+    "review-reputation-engine",
+    "online-review-monitoring",
+    "reputation-insights",
+    "customer-feedback",
+    "brand-presence",
+    "review-visibility",
+    "reputation-scoring",
+    "review-management",
+]
+
+[project.urls]
+Homepage = "https://buypositivereview.online"
+GitHub = "https://github.com/Buy-Positive-Review/review-reputation-engine"
+Documentation = "https://review-reputation-engine.readthedocs.io"
+PyPI = "https://pypi.org/project/review-reputation-engine"
+
+[project.scripts]
+reputation-engine = "reputation_engine:main"

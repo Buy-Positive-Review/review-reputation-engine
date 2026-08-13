@@ -1,0 +1,21 @@
+site_name: Review Reputation Engine
+site_url: https://review-reputation-engine.readthedocs.io
+site_description: Lightweight review reputation engine for organizing, analyzing, and monitoring online review signals across business and review platforms.
+site_author: BuyPositiveReview.online
+
+repo_name: Buy-Positive-Review/review-reputation-engine
+repo_url: https://github.com/Buy-Positive-Review/review-reputation-engine
+
+theme:
+  name: material
+  palette:
+    primary: amber
+    accent: orange
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

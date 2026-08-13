@@ -1,0 +1,65 @@
+{
+  "title": "Review Reputation Engine",
+  "description": "A lightweight review reputation engine designed to organize, analyze, and monitor online review signals across business and review platforms. Focuses on review visibility, reputation insights, customer feedback patterns, and maintaining a structured view of a brand's online presence. Built by BuyPositiveReview.online.",
+  "creators": [
+    {
+      "name": "BuyPositiveReview.online"
+    }
+  ],
+  "keywords": [
+    "Review Reputation Engine",
+    "Online Review Monitoring",
+    "Reputation Insights",
+    "Customer Feedback",
+    "Brand Presence",
+    "Review Visibility",
+    "Reputation Scoring",
+    "BuyPositiveReview.online"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Buy-Positive-Review/review-reputation-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://buypositivereview.online",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@buy-positive-review/review-reputation-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/review-reputation-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/buy-positive-review/reputation-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/Buypositivereview/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/building-a-strong-online-reputation-strategies-for-authentic-customer-trust-and-digital-brand-growth/289223824",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://medium.com/@BuyPositiveReview",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

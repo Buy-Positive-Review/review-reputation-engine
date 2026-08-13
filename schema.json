@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Review Reputation Engine",
+  "description": "A lightweight review reputation engine designed to organize, analyze, and monitor online review signals across business and review platforms.",
+  "url": "https://buypositivereview.online",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "BuyPositiveReview.online",
+    "url": "https://buypositivereview.online",
+    "sameAs": [
+      "https://buypositivereview.online",
+      "https://github.com/Buy-Positive-Review",
+      "https://npmjs.com/package/@buy-positive-review/review-reputation-engine",
+      "https://pypi.org/project/review-reputation-engine",
+      "https://huggingface.co/datasets/buy-positive-review/reputation-benchmarks",
+      "https://buy-positive-review.github.io/review-reputation-engine/",
+      "https://www.pinterest.com/Buypositivereview/",
+      "https://www.slideshare.net/slideshow/building-a-strong-online-reputation-strategies-for-authentic-customer-trust-and-digital-brand-growth/289223824",
+      "https://medium.com/@BuyPositiveReview"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/Buy-Positive-Review/review-reputation-engine",
+  "keywords": [
+    "Review Reputation Engine",
+    "Online Review Monitoring",
+    "Reputation Insights",
+    "Customer Feedback",
+    "Brand Presence",
+    "Review Visibility",
+    "Reputation Scoring",
+    "BuyPositiveReview.online"
+  ]
+}
