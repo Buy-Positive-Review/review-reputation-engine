@@ -1,0 +1,21 @@
+id,brand,platform,review_visibility_score,reputation_health_score,feedback_pattern_score,platform_coverage_score,response_rate_score,brand_presence_score,overall_reputation_index,priority_action,google_score,trustpilot_score,yelp_score,app_stores_score,industry,notes
+1,Restaurant Chain,google,88,84,86,80,90,84,85,Platform Coverage,88,84,80,84,Food & Beverage,Strong Google review presence
+2,E-commerce Brand,trustpilot,86,82,84,78,88,82,83,Platform Coverage,86,82,78,82,Retail,Trustpilot-focused brand
+3,SaaS Platform,g2,90,86,88,82,92,86,87,Platform Coverage,90,86,82,86,Software,B2B review focus
+4,Hotel Chain,tripadvisor,84,80,82,76,86,80,81,Platform Coverage,84,80,76,80,Hospitality,Hospitality review profile
+5,Healthcare Clinic,google,88,84,86,80,90,84,85,Platform Coverage,88,84,80,84,Healthcare,Medical practice reviews
+6,Law Firm,google,86,82,84,78,88,82,83,Platform Coverage,86,82,78,82,Legal,Professional service reviews
+7,Mobile App,app-store,90,86,88,84,92,86,88,Platform Coverage,90,86,84,86,Technology,App store review focus
+8,Retail Store,google,84,80,82,76,86,80,81,Platform Coverage,84,80,76,80,Retail,Local retail reviews
+9,Fitness Studio,yelp,86,82,84,78,88,82,83,Platform Coverage,86,82,78,82,Health & Fitness,Local fitness reviews
+10,Financial Advisor,google,88,84,86,80,90,84,85,Platform Coverage,88,84,80,84,Finance,Professional trust reviews
+11,B2B Software,capterra,90,86,88,82,92,86,87,Platform Coverage,90,86,82,86,Software,Capterra review strategy
+12,Beauty Brand,amazon,86,82,84,78,88,82,83,Platform Coverage,86,82,78,82,Beauty,Product review monitoring
+13,Education Platform,trustpilot,88,84,86,80,90,84,85,Platform Coverage,88,84,80,84,EdTech,Online learning reviews
+14,Real Estate Agency,google,84,80,82,76,86,80,81,Platform Coverage,84,80,76,80,Real Estate,Agent review profile
+15,Tech Startup,producthunt,86,82,84,78,88,82,83,Platform Coverage,86,82,78,82,Technology,Startup review launch
+16,Insurance Broker,google,88,84,86,80,90,84,85,Platform Coverage,88,84,80,84,Insurance,Trust-based reviews
+17,Travel Agency,tripadvisor,90,86,88,82,92,86,87,Platform Coverage,90,86,82,86,Travel,Travel review coverage
+18,Dental Practice,google,86,82,84,78,88,82,83,Platform Coverage,86,82,78,82,Healthcare,Dental practice reviews
+19,Car Dealership,google,84,80,82,76,86,80,81,Platform Coverage,84,80,76,80,Automotive,Dealership review profile
+20,Digital Agency,clutch,88,84,86,80,90,84,85,Platform Coverage,88,84,80,84,Marketing,Agency review portfolio
